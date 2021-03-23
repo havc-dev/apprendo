@@ -3,7 +3,7 @@ import React from 'react'
 function Editor() {
     return (
         <div>
-            <h3>Card Editor</h3>
+            <h1>Card Editor</h1>
         </div>
     )
 }

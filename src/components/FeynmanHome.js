@@ -3,6 +3,7 @@ import Step1 from './feynman/Step1';
 import Step2 from './feynman/Step2';
 import Step3 from './feynman/Step3';
 import Step4 from './feynman/Step4';
+import Step5 from './feynman/Step5';
 
 function FeynmanHome() {
     return (
@@ -22,6 +23,7 @@ function FeynmanHome() {
                 <Step2 />
                 <Step3 />
                 <Step4 />
+                <Step5 />
 
             </div>
         </div>

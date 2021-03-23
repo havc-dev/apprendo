@@ -3,7 +3,7 @@ import React from 'react'
 function Viewer() {
     return (
         <div>
-            <h3>Card Viewer</h3>
+            <h1>Card Viewer</h1>
         </div>
     )
 }
